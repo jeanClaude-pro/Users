@@ -66,3 +66,15 @@ h1 {
 ::-webkit-scrollbar{
     display: none;
 }
+.input-container {
+   
+
+    position: relative;
+
+}
+i {
+    position: absolute;
+    top: 37px;
+    left: 15px;
+    color: #917457;
+}
